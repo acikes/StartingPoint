@@ -1,3 +1,3 @@
 # hello-world
 Pocetni repozitorij
-Verzija 2
+Verzija0
